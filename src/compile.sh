@@ -102,7 +102,7 @@ if [ ! -d "$srcdir" ]; then
         fi
     fi
     #extract
-    tar xjvf "$srcfile"
+    tar xjf "$srcfile"
 fi
 
 
